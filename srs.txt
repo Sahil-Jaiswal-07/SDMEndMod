@@ -1,0 +1,37 @@
+
+Employee Recruitment System - Software Requirements Specification
+1. Introduction
+The Employee Recruitment System is online platform that allows users to register their account to searching applying for job. The system provides a user-friendly interface for browsing available jobs, selecting apply for jobs, and applying for validate jobs. 
+
+2. Scope
+The Employee Recruitment System will provide the following features:
+
+
+3. Functional Requirements
+1) User Registration and Login
+Users can register with the system by providing their basic information (name, email, password).
+Users can log in to the system using their registered email and password.
+
+2) Application Browsing and Searching for jobs
+Users can browse and search for jobs based on Their Education, Domain, etc.
+Users can view Job details such as title, description, date, time, venue, and Requirements.
+
+3) Applying Jobs 
+Users can select Domain from the available Job portals venue.
+Users can choose domain and apply using their resume.
+The system should prevent multiple jobs applying sources.
+
+4)Upload Resume
+The job seekers can upload their resumes and provide the necessary details if they are interested in jobs.
+
+
+5)Admin
+
+Manage Users and Employers
+The administrator can add users, delete users, and view users.
+Manage jobs
+The administrator can add jobs, delete jobs, hide jobs, and view jobs.
+Manage details
+The system must identify the login of the admin.
+Admin account should be secured so that only the owner of the portal can access that account.
+
