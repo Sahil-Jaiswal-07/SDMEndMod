@@ -1,0 +1,15 @@
+A Employee Recruitment System involves various entities that interact with each other. Here are the key entities typically involved:
+
+User: Represents individuals who use the Employee Recruitment System. Users can have roles such as guest, registered user, or admin. They have attributes like User ID, Name, Email, and Password.
+
+Job: Represents a specific job for which employee can be Apply. Jobs have attributes such as Job ID, Title, Description, Date, Time, Location, and Vacancy.
+
+Resume: Represents a Employee for a specific Job. Resume have attributes like emp ID, job ID, app Number, and Status (applicable, canceled, etc.).
+
+Selection: Represents a user's Selection of emp for an job. Selections have attributes like selc ID, emp ID, job ID, interview Date, and Status (select, pending, canceled).
+
+Venue: Represents the location or platform where interview take place. Jobs have attributes like job ID, Name, Address, Capacity, and Facilities.
+
+
+
+
